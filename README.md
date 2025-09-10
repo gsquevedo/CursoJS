@@ -23,3 +23,9 @@ Este projeto reúne exercícios práticos e pequenos projetos desenvolvidos dura
 ## 💻 Ambiente de Desenvolvimento
 
 - VS Code
+
+## 🎯 Objetivo
+
+- Aprender e aplicar os conceitos fundamentais de JavaScript, HTML e CSS.
+- Desenvolver pequenos projetos para consolidar o aprendizado prático.
+- Organizar e documentar o progresso de forma estruturada.
